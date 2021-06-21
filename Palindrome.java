@@ -23,7 +23,7 @@ public class Palindrome {
         Palindrome palindrome = new Palindrome();
         System.out.println(palindrome.isPalindrome("HEllo"));
         System.out.println(palindrome.isPalindrome("NON"));
-        System.out.println(palindrome.isPalindrome("MIISSIIM"));
+       
     }
 
 }
